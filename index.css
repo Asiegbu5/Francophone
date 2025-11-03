@@ -1,0 +1,255 @@
+/* external css */
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            margin-top: 0;
+        }
+        img{
+             width: 1340px;
+            height: 752px;
+              /* angle: 0 deg;   */
+             opacity: 1;
+            /* top: 134px;  */
+        }
+
+        h2 {
+            position: relative;
+            top: 497px;
+            text-align: center;
+            font-family: Mulish;
+             font-weight: 700;
+            font-style: Bold;
+            font-size: 3rem;
+            /* leading-trim: NONE; */
+            line-height: 100%;
+            letter-spacing: 0%;
+            text-align: center;
+            color: #FFFFFF;
+        }
+
+        p {
+            position: relative;
+            top: 500px;
+            text-align: center;
+            font-family: Mulish;
+            font-weight: 300;
+            font-style: SemiBold;
+            font-size: 2rem;
+            /* leading-trim: NONE;  */
+            line-height: 100%;
+            letter-spacing: 0%;
+            text-align: center;
+            color: #FFFFFF;
+
+        }
+        .card{
+        /* padding: 20 30;
+        /* angle: 0 deg; */
+        opacity: 1;
+        /* top: 234px; */
+       left: 4px;
+      /* border-radius: 5px; */
+      /* background:#ccc; */
+      width: 320px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .friend{
+          height: 55px;
+        }
+        .gift{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .precious{
+            position: relative;
+            top: 10px; ;
+            left: 40px;
+
+        }
+        .bright{
+        width: 347px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .luno{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .thelma{
+             position: relative;
+            top: 10px; ;
+            left: 40px;
+        }
+        .Franklin{
+        width: 384px;
+      height: 55px;
+      background: #ccc;
+      margin: 20px;
+        }
+        .spa{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .desk{
+             position: relative;
+            top: 10px; ;
+            left: 40px;
+        }
+        .tech{
+            height: 39px;
+            width: 200px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF; 
+        }
+        .Amaka{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .uwana{
+          width: 554px;
+            height: 449px;
+            bottom: 40px;
+            left:-2px;
+            position: relative;
+        }
+        .copilot{
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+             gap: 30px;
+           
+        }
+        .agent{
+        width: 200px;
+        height: 180px;
+         background: rgb(44, 134, 44);
+        }
+        .franthel{
+        width: 200px;
+        height: 180px;
+         background: rgb(44, 134, 44);
+        }
+        .treatment{
+        background: rgb(44, 134, 44);
+        width: 200px;
+        height: 180px;
+        }
+        .mode{
+            background: rgb(44, 134, 44);
+            width: 200px;
+        height: 180px;
+        }
+        .fees{
+            background: rgb(44, 134, 44);
+            width: 200px;
+        height: 180px;
+        }
+        .Savings{
+            background: lightskyblue;
+            height: 400px;
+        }
+        .type{
+            text-align: center;
+        }
+        .context{
+            width: 410px;
+            height: 400px;
+            position: relative;
+            top: 50px;
+           margin: 30px;
+        }
+        .chris{
+            position: fixed; 
+            /* bottom: 40px;
+            left: 90px;
+            width: 2000px;   */
+        }   
+        .commands{
+        width: 320px;
+      height: 55px;
+      background: #ccc;
+      
+        }
+        .sunshine{
+            height: 39px;
+            width: 40px;
+            position: relative;
+            top:10px ;
+            left: 15px;
+            border-radius: 3px;
+            border: none;
+            background: green;
+            color: #FFFFFF;
+        }
+        .victory{
+             position: relative; 
+            top: 10px; ;
+            left: 40px;
+        }
+        .divine{
+              width: 400px;
+      height: 55px;
+      background: #ccc;
+      
+        }
+        .agusta{
+        width: 389px;
+      height: 55px;
+      background: #ccc;
+      
+        }
+        .errors{
+    width: 347px;
+      height: 55px;
+      background: #ccc;
+      
+        }
+        .Fan{
+            display: flex;
+            justify-content: space-evenly
+        }
+        .attach{
+            position: relative ;
+            top: 650px;
+             right: 590px;
+            height: 39px;
+            width: 200px;
+        }
+        .cling{
+            display: grid;
+            grid-template-columns: repeat(1,1fr);
+            background:#fff ;
+             width: 900px;
+     position: relative; 
+    top: 50px;
+        }
